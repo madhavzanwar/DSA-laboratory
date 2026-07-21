@@ -1,7 +1,6 @@
 # 🧮 DSA Laboratory
 
 [![C++](https://img.shields.io/badge/C++-17-00599C.svg?logo=c%2B%2B)](https://isocpp.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-in--progress-yellow.svg)]()
 [![PCCOE](https://img.shields.io/badge/PCCOE-CSE%20AI%26ML-8A2BE2.svg)]()
 
@@ -56,8 +55,5 @@ Each solved assignment includes a brief time & space complexity discussion in co
 
 **Madhav Zanwar**
 B.Tech CSE (AI & ML), PCCOE Pune
-[GitHub](https://github.com/madhavzanwar) · [LinkedIn](https://linkedin.com/in/madhav-zanwar) · [LeetCode](https://leetcode.com/madhav_builds)
+[GitHub](https://github.com/madhavzanwar) · [LinkedIn]([https://linkedin.com/in/madhav-zanwar](https://www.linkedin.com/in/madhav-zanwar-395ba1389/)) · [LeetCode](https://leetcode.com/madhav_builds)
 
-## 📄 License
-
-Licensed under the [MIT License](LICENSE).
